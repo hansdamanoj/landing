@@ -34,7 +34,7 @@ p {
 	background:url(../images/banner.jpg) no-repeat;
 	background-size:contain;
 	height:494px;
-	margin-top:5px;
+	/* margin-top:5px; */
 	background-position:;
 }
 .banner h1 {
