@@ -76,12 +76,12 @@ p {
 	float: right;
 }
 .enquiry-from {
-	width: 270px;
+	width: 340px;
 	float: right;
-	background: #4d4d4d;
+	background: #bec09f;
 	color:#fff;
 	text-align:center;
-	padding:10px 15px 2px 15px;
+	padding:10px 15px 10px 15px;
 	margin-right:20px;
 }
 .enquiry-from p {
@@ -89,9 +89,9 @@ p {
 	line-height: 10px;
 }
 .enquiry-from h2 {
-	color: #ffda0f;
+	color: #000;
 	font-size: 14px;
-	background: #080f18;
+	background: #87c9f3;
 	padding: 10px 0;
 	margin-bottom:10px;
 }
@@ -307,7 +307,7 @@ footer p {
 	margin-bottom: 10px;
 }
 .enquiry-from  .form-control{
-	border-radius:0;
+	border-radius:55px;
 }
 .feature-con p {
 	font-size: 20px;
@@ -322,4 +322,10 @@ footer p {
 }
 .expert-service-con .page-heading {
 	padding-left: 30px;
+}
+
+@media only screen and (max-width: 720px) {
+	.service-con ul{
+		padding: 0 10px;
+	}
 }
