@@ -292,6 +292,9 @@ footer p {
 	border-radius: 0;
 	padding: 10px 0;
 }
+.enquiry-from label a {
+	color: #fff;
+}
 .enquiry-from button:hover, .enquiry-from button:active:hover{
 	background: #f0c30e;
 	border: none;
